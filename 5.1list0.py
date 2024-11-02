@@ -1,0 +1,23 @@
+numbers = []
+
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+numbers.append(-113)
+
+print(numbers[0])
+print(numbers[1])
+print(numbers[2])
+print(numbers[3])
+print(numbers[4])
+print(numbers[5])
+print(numbers[6])
+print(numbers[7])
+print(numbers[8])
+print(numbers[9])
